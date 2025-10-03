@@ -18,10 +18,10 @@ Um site desenvolvido com HTML, CSS e JavaScript.
 Siga os passos abaixo para rodar o site no seu computador:
 
 1. **Instale o Git**  
-   Caso ainda não tenha, baixe e instale: [https://git-scm.com/](https://git-scm.com/)
+   Caso ainda não tenha, baixe e instale: [https://git-scm.com/](https://git-scm.com/)<br>
 
 2. **Clone o repositório**
-   No terminal CMD (Prompt de Comando) use o comando "git clone https://github.com/GuiHermes/trabalhoLucas"
+   No terminal CMD (Prompt de Comando) use o comando "git clone https://github.com/GuiHermes/trabalhoLucas"<br>
 
 3. **Execute o arquivo Index.html**
-   Abra o arquivo index.html, automaticamente o site estará em funcionamento localmente em sua maquina.
+   Abra o arquivo index.html, automaticamente o site estará em funcionamento localmente em sua maquina.<br>
